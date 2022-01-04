@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Pra_array">
+        <item>Основные Правила</item>
+        <item>Переход</item>
+        <item>Подача</item>
+        <item>Заступ</item>
+        <item>Сетка</item>
+        <item>Замена</item>
+    </string-array>
+
+    <string-array name="Sett_array">
+        <item>Связующий</item>
+        <item>Нахождение на площадке</item>
+        <item>Передача</item>
+        <item>Прием</item>
+        <item>Нападение</item>
+        <item>Блок</item>
+    </string-array>
+
+    <string-array name="Doi_array">
+        <item>Доигровщик</item>
+        <item>Нахождение на площадке</item>
+        <item>Прием</item>
+        <item>Нападение</item>
+        <item>Блок</item>
+    </string-array>
+
+    <string-array name="Centr_array">
+        <item>Центральный блокирующий</item>
+        <item>Нахождение на площадке</item>
+        <item>Прием</item>
+        <item>Нападение</item>
+        <item>Блок</item>
+    </string-array>
+
+    <string-array name="Dia_array">
+        <item>Диагональный</item>
+        <item>Нахождение на площадке</item>
+        <item>Прием</item>
+        <item>Нападение</item>
+        <item>Блок</item>
+    </string-array>
+
+    <string-array name="Lib_array">
+        <item>Либеро</item>
+        <item>Нахождение на площадке</item>
+        <item>Прием</item>
+        <item>Нападение</item>
+        <item>Блок</item>
+    </string-array>
+
+</resources>
